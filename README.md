@@ -7,9 +7,9 @@ Four machine learning labs completed for BYU's CS 270 (Machine Learning), implem
 | Lab | Folder | Description |
 | --- | --- | --- |
 | Clustering | [`clustering/`](clustering/) | K-means and agglomerative clustering, evaluated with silhouette scores. |
-| Decision Trees | [`decision_trees/`](decision_trees/) | Decision tree classification and regression, including cross-validation and comparison against scikit-learn's built-in implementations. |
+| Decision Trees | [`decision_trees/`](decision_trees/) | Decision tree classification and regression, cross-validation. Including a from-scratch implementation of the C4.5 algorithm, compared against scikit-learn's built-in implementations. |
 | K-Nearest Neighbors | [`knn/`](knn/) | KNN classification and regression with feature scaling. |
-| Neural Networks | [`neural_networks/`](neural_networks/) | Backpropagation-based neural network classification and regression using scikit-learn's MLP models, with hyperparameter tuning via grid and randomized search, applied to Iris, vowel recognition, air quality, and red wine quality datasets. |
+| Neural Networks | [`neural_networks/`](neural_networks/) | Backpropagation-based neural network classification and regression using scikit-learn's MLP models, with hyperparameter tuning via grid and randomized search. |
 
 Each folder contains the notebook for that lab along with the datasets it uses.
 
