@@ -1,0 +1,3 @@
+# K-Nearest Neighbors
+
+KNN classification and regression using scikit-learn, covering hyperparameter effects (k, distance metric p-values), the impact of normalization and distance weighting, an ethical discussion of an inappropriate input feature in a classic housing dataset (as discussed in the course this material comes from), and implementation of a custom distance metric for data with mixed nominal and continuous features.
