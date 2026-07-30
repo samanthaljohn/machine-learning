@@ -1,6 +1,6 @@
 # Machine Learning — BYU CS 270
 
-Four machine learning labs completed for BYU's CS 270 (Machine Learning), implemented in Jupyter notebooks using scikit-learn. Each lab applies a different fundamental machine learning algorithm to one or more real datasets, covering data preprocessing, model training, model evaluation, and analysis of results.
+Four machine learning labs completed for BYU's CS 270 (Machine Learning), implemented in Jupyter notebooks using scikit-learn. Each lab applies a different fundamental machine learning algorithm to one or more real datasets, covering data preprocessing, model training, model evaluation, and analysis of results. Labs have been updated, cleaned, and reorganized to highlight the underlying concepts and techniques learned in this course.
 
 ## Labs
 
