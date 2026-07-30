@@ -1,0 +1,3 @@
+# Decision Trees
+
+Decision tree classification and regression using scikit-learn, covering missing-value handling, n-fold cross-validation, tree visualization and feature importance, split criterion comparison (Gini/entropy/log-loss), overfit-avoidance parameters, and cost-complexity pruning. Concludes with a decision tree classifier implemented from scratch using the C4.5 algorithm (gain ratio as the split criterion), compared against scikit-learn's default implementation.
