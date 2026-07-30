@@ -1,0 +1,3 @@
+# Neural Networks
+
+MLP classifiers and regressors (scikit-learn's `MLPClassifier`/`MLPRegressor`) trained across several datasets, covering overfit-avoidance techniques (early stopping, L2 regularization), hyperparameter tuning (learning rate, hidden layer size, momentum), automatic hyperparameter search (grid vs. randomized), and MLP regression with activation-function and architecture comparisons.
